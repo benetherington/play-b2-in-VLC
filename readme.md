@@ -4,7 +4,7 @@ My SO has a tiny harddrive, but a large digital media collection. When I realize
 This is a super stripped down application that displays all the files on a B2 server and makes it easy to stream them in VLC or delete them. It would be pretty easy to add an upload function as well, but I don't mind using the command line utility.
 
 ## Dependencies
-(BackBlazeB2)[https://github.com/mtingers/backblaze-b2]
+[BackBlazeB2](https://github.com/mtingers/backblaze-b2)
 
 ## Setup
 Create a document called private.py in the same folder play-b2-in-VLC.py is in. Add the following text, substituting with your own values.
